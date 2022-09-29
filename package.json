@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-jp",
+  "version": "1.0.0",
+  "description": "RANDOM STRING MESSAGES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjmonrroy/random-str-msg-jp.git"
+  },
+  "keywords": [],
+  "author": "JP Mon <pierremonrroy@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjmonrroy/random-str-msg-jp/issues"
+  },
+  "homepage": "https://github.com/pjmonrroy/random-str-msg-jp#readme",
+  "bin": {
+    "random-str-msg-jp": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
